@@ -21,6 +21,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
   
   * If mobility limits noted → choose step-free, short-walk options and include breaks.
 7. **Dietary Needs**
+
   
   * If user is vegan or has dietary constraints → ensure all meals match or swap with compliant ones.
 8. **Bookings**
