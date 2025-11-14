@@ -21,3 +21,4 @@ Show results clearly and conversationally:
   
 
 When refining, only modify what the user asks; keep everything else stable.
+
